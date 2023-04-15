@@ -16,6 +16,7 @@ docker run -d -p 3000:3000 witfog/fakegpt:latest
 ### 运行
 
 ```sh
+yarn install
 yarn dev
 ```
 
