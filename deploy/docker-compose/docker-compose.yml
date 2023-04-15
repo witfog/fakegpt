@@ -1,0 +1,7 @@
+version: "3"
+
+services:
+  fakegpt:
+    image: witfog/fakegpt:latest
+    # environment:
+    #   GTAG: G-XXXX # Gtag id of Google Analyze. Add this env variable to enable Google Analyze.
